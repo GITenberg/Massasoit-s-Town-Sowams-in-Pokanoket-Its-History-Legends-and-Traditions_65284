@@ -1,11 +1,16 @@
 _repo: Massasoit-s-Town-Sowams-in-Pokanoket-Its-History-Legends-and-Traditions_65284
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65284-h/images/cover.jpg
 creator:
   author:
     agent_name: Baker, Virginia
     gutenberg_agent_id: '53268'
     url: http://www.gutenberg.org/2009/agents/53268
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65284#Massasoit-s-Town-Sowams-in-Pokanoket-Its-History-Legends-and-Traditions
 gutenberg_issued: '2021-05-08'
 gutenberg_type: Text
 identifiers:
